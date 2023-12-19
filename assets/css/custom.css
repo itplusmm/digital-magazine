@@ -1,0 +1,10 @@
+nav #arrow-down{
+    font-size: small;
+    padding-bottom: 5px;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+.header-top .logo img{
+    width: 250px;
+}
